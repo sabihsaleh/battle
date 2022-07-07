@@ -4,6 +4,5 @@ source "https://rubygems.org"
 
 gem "sinatra"
 gem "sinatra-contrib"
-
 gem "rspec", "~> 3.11"
 gem "capybara"
